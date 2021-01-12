@@ -8,6 +8,7 @@
 				<input type="password" v-model="pwd" placeholder="请输入密码" />
 			</view>
 			
+			
 			<view class="msg-box">
 				<p>静态登录用户信息在:commen/tim/user.js 中,登录用户为 user1~user9;密码随便输</p>
 				<p>测试/开发时请先更换为自己的IM腾讯云账户</p>
